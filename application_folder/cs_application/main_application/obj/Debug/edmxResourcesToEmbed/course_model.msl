@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище coursedbModelContainer" CdmEntityContainer="CourseDB">
+    <EntitySetMapping Name="inbox">
+      <EntityTypeMapping TypeName="coursedbModel.inbox">
+        <MappingFragment StoreEntitySet="inbox">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="sender" ColumnName="sender" />
+          <ScalarProperty Name="recepient" ColumnName="recepient" />
+          <ScalarProperty Name="re" ColumnName="re" />
+          <ScalarProperty Name="msg" ColumnName="msg" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="foreign_id" ColumnName="foreign_id" />
+          <ScalarProperty Name="date_received" ColumnName="date_received" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="outbox">
+      <EntityTypeMapping TypeName="coursedbModel.outbox">
+        <MappingFragment StoreEntitySet="outbox">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="sender" ColumnName="sender" />
+          <ScalarProperty Name="recepient" ColumnName="recepient" />
+          <ScalarProperty Name="re" ColumnName="re" />
+          <ScalarProperty Name="msg" ColumnName="msg" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="foreign_id" ColumnName="foreign_id" />
+          <ScalarProperty Name="date_sent" ColumnName="date_sent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище coursedbModel" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\coursedb.sqlite3" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="inbox">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sender" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="recepient" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="re" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="msg" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="status" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="foreign_id" Type="integer" />
+    <Property Name="date_received" Type="nvarchar" MaxLength="2147483647" />
+  </EntityType>
+  <EntityType Name="outbox">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sender" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="recepient" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="re" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="msg" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="status" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="foreign_id" Type="integer" />
+    <Property Name="date_sent" Type="nvarchar" MaxLength="2147483647" />
+  </EntityType>
+  <EntityContainer Name="Хранилище coursedbModelContainer">
+    <EntitySet Name="inbox" EntityType="Self.inbox" store:Type="Tables" />
+    <EntitySet Name="outbox" EntityType="Self.outbox" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

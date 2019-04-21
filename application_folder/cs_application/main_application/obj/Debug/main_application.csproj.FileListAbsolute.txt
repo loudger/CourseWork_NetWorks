@@ -1,0 +1,99 @@
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.csprojAssemblyReference.cache
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.Form1.resources
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.Form2.resources
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.Properties.Resources.resources
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.GenerateResource.cache
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CoreCompileInputs.cache
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\main_application.exe.config
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\main_application.exe
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\main_application.pdb
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.Modules.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.SQLite.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.Wpf.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.Modules.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.SQLite.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\IronPython.Wpf.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CopyComplete
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.exe
+C:\Users\kotsi\Desktop\сем6\Сетевые технологии в АСОИУ\networks_course_project-master\application_folder\cs_application\main_application\obj\Debug\main_application.pdb
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\main_application.exe.config
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\main_application.exe
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\main_application.pdb
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\EntityFramework.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\EntityFramework.xml
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.xml
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.csprojAssemblyReference.cache
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.AuthForm.resources
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.Form1.resources
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.Form2.resources
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.Form3.resources
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.Properties.Resources.resources
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.GenerateResource.cache
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CoreCompileInputs.cache
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CopyComplete
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.exe
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\obj\Debug\main_application.pdb
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\IronPython.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\IronPython.Modules.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\kotsi\Desktop\полный — копия\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\main_application.exe.config
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\main_application.exe
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\main_application.pdb
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\EntityFramework.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\EntityFramework.SqlServer.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\IronPython.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\IronPython.Modules.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Dynamic.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\EntityFramework.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\EntityFramework.SqlServer.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.pdb
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\Newtonsoft.Json.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.xml
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\System.Data.SQLite.dll.config
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\ru\EntityFramework.resources.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.csprojAssemblyReference.cache
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.AuthForm.resources
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.Form1.resources
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.Form2.resources
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.Form3.resources
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.Properties.Resources.resources
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.GenerateResource.cache
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CoreCompileInputs.cache
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.csproj.CopyComplete
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.exe
+C:\6 sem education\Сети\Курсовая\application_folder\cs_application\main_application\obj\Debug\main_application.pdb
